@@ -1,2 +1,2 @@
 # zen-garden
-finding zen
+finding zen-garden
